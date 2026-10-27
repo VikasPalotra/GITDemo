@@ -31,3 +31,6 @@ git pull
 git remote show origin
 
 Now github to local changes
+git fetch
+git status
+git pull
