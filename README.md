@@ -29,3 +29,5 @@ git pull
 
 //show the origin
 git remote show origin
+
+Now github to local changes
