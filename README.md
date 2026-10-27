@@ -14,3 +14,7 @@ PS E:\AfterWipro>
 
 E:\AfterWipro> git clone https://github.com/VikasPalotra/GITDemo.git
 Receiving objects: 100% (6/6), done.
+
+E:\AfterWipro\GITDemo> git status
+On branch main
+Your branch is up to date with 'origin/main'.
