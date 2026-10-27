@@ -18,3 +18,9 @@ Receiving objects: 100% (6/6), done.
 E:\AfterWipro\GITDemo> git status
 On branch main
 Your branch is up to date with 'origin/main'.
+
+git restore Test.java  //to discard changes in working directory
+git add Test.java
+git commit -m "Add Test.java file"
+git push
+git pull
